@@ -1,0 +1,9 @@
+{
+    "presets": [
+      ["vue", {
+        "eventModifiers": false
+      }]
+    ],
+    "plugins": ["@vue/babel-plugin-jsx"]
+
+  }
